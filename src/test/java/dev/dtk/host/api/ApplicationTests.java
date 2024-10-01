@@ -1,4 +1,4 @@
-package dev.dtk.httphost;
+package dev.dtk.host.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
